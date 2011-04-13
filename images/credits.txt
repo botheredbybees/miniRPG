@@ -1,0 +1,14 @@
+ogre.jpg: 'Love the Way You Look'
+http://www.flickr.com/photos/51035555243@N01/2247985915
+
+elf.jpg: 'Night Elf Druid'
+http://www.flickr.com/photos/17731548@N00/2844548919
+
+halfling.jpg: 'Diego Velazquez: The Dwarf Francisco Lezcano, Called+"El+Nino+de+Vallecas"+(detail)'
+http://www.flickr.com/photos/99051133@N00/2616346558
+
+dwarf.jpg: 'Grindak Bloodbreath'
+http://www.flickr.com/photos/72211182@N00/3754073037
+
+human.jpg: 'Viking'
+http://www.flickr.com/photos/67196253@N00/3867432663
